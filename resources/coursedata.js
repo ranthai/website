@@ -67,6 +67,9 @@ var coursedata = [
   {
     "semester": "Spring 2018 <span class=\"badge badge-secondary\">Current</span>",
     "courses": [
+      { "name": "C S345 Programming Languages",
+	"url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20182/51555/"
+      },
       {
         "name": "C S361S Network Security and Privacy",
         "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20182/51594/"
