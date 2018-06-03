@@ -4,7 +4,7 @@ var coursedata = [
     "courses": [
       {
         "name": "C S312 Introduction to Programming",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20159/50555/"
+        "url": "https://www.cs.utexas.edu/courses/312-introduction-programming"
       }
     ]
   },
@@ -13,11 +13,11 @@ var coursedata = [
     "courses": [
       {
         "name": "C S311 Discrete Math for Computer Science",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20162/50920/"
+        "url": "https://www.cs.utexas.edu/undergraduate-program/courses/313h-logic-sets-and-functions"
       },
       {
         "name": "C S314 Data Structures",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20162/50950/"
+        "url": "https://www.cs.utexas.edu/courses/314-data-structures"
       }
     ]
   },
@@ -26,7 +26,7 @@ var coursedata = [
     "courses": [
       {
         "name": "C S429 Computer Organization and Architecture",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20169/51380/"
+        "url": "https://www.cs.utexas.edu/undergraduate-program/courses/429-computer-organization-and-architecture"
       }
     ]
   },
@@ -35,15 +35,15 @@ var coursedata = [
     "courses": [
       {
         "name": "C S439 Principles of Computer Systems",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20172/52100/"
+        "url": "https://www.cs.utexas.edu/undergraduate-program/courses/439-principles-computer-systems"
       },
       {
         "name": "C S347 Data Management",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20172/52135/"
+        "url": "https://www.cs.utexas.edu/courses/347-data-management"
       },
       {
         "name": "C S361	Introduction to Computer Security",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20172/52163/"
+        "url": "https://www.cs.utexas.edu/courses/361-introduction-computer-security"
       }
     ]
   },
@@ -52,35 +52,35 @@ var coursedata = [
     "courses": [
       {
         "name": "C S331 Algorithms and Complexity",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20179/51570/"
+        "url": "https://www.cs.utexas.edu/undergraduate-program/courses/331-algorithms-and-complexity"
       },
       {
         "name": "C S356	Computer Networks",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20179/51695/"
+        "url": "https://www.cs.utexas.edu/courses/356-computer-networks"
       },
       {
         "name": "C S373	Software Engineering",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20179/51740/"
+        "url": "https://www.cs.utexas.edu/courses/373-software-engineering"
       }
     ]
   },
   {
-    "semester": "Spring 2018 <span class=\"badge badge-secondary\">Current</span>",
+    "semester": "Spring 2018",
     "courses": [
       { "name": "C S345 Programming Languages",
-	"url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20182/51555/"
+	    "url": "https://www.cs.utexas.edu/courses/345-programming-languages"
       },
       {
         "name": "C S361S Network Security and Privacy",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20182/51594/"
+        "url": "https://www.cs.utexas.edu/courses/361s-network-security-and-privacy"
       },
       {
         "name": "C S375 Compilers",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20182/51640/"
+        "url": "https://www.cs.utexas.edu/courses/375-compilers"
       },
       {
         "name": "C S378	Ethical Hacking",
-        "url": "https://utdirect.utexas.edu/apps/registrar/course_schedule/20182/51680/"
+        "url": ""
       }
     ]
   }
